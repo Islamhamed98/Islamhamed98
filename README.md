@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Islam hamed, i have a bachelor's of computer science from Ain Shams university.
+- 👋 Hi, I’m Islam hamed, i have a bachelor's degree of computer science from Ain Shams university.
 - 👀 I’m interested in footbal,food.
 - 🌱 I’m currently learning web development
 - 📫 you can send me on Islamhamed289@gmail.com 
